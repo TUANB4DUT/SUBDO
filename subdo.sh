@@ -10,6 +10,8 @@ echo  "[AUTHOR    : TUAN B4DUT] " |lolcat
 echo  "[ASSOCIATE : INDONESIAN TERMUX ASSOCIATION] " |lolcat
 echo  "[NOTES     : BE A SMART PEOPLE] " | lolcat
 echo  "[THANKS TO : GOD]" | lolcat
+echo  "[EMAIL     : gteam@programmer.net] " | lolcat
+echo  "[WEBSITE   : https://cyberline.ml] " | lolcat
 echo  "_____________________________________________________________" |lolcat
 
 sleep 1
